@@ -1,0 +1,25 @@
+body {
+	font-size: 24px;
+	background-image: url(http://coolwildlife.com/wp-content/uploads/galleries/post-3004/Fox%20Picture%20003.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+.customDiv {
+	padding: 20% 2em 200px 100px;
+}
+.customWidth {
+	width: 50%;
+}
+.customWidth2 {
+	width: 25%;
+}
+.customWidth3 {
+	width: 50%;
+	float: left;
+}
+#div3{
+	display: inline;
+	float: right;
+	width: 40%;
+}
