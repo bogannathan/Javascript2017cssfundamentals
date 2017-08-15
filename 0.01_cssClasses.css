@@ -1,0 +1,10 @@
+.customDiv {
+	margin: 20px;
+	font-size: 24px;
+	padding: 10px;
+	color: green;
+	width: 50%;
+}
+.borderDiv {
+	border-style: solid;
+}
